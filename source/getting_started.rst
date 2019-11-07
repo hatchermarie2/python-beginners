@@ -1,4 +1,4 @@
-Getting started
+HiGetting started
 ***************
 
 What you'll need
